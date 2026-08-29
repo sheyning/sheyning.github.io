@@ -11,7 +11,3 @@ python -m http.server 8000
 ```
 
 Then open <http://localhost:8000>.
-
-## Custom domain
-
-If this should serve `lucario.gay`, add a `CNAME` file containing `lucario.gay`, then point the domain's DNS to GitHub Pages.
